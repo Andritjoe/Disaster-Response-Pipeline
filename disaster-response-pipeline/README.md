@@ -1,7 +1,8 @@
 # Disaster Response Pipeline Project
 
 ## Motivation
-The main purpose of the project is to build a model that analyse and classifies disaster messages from Figure Eight to build a model using the web app (flask).
+The main purpose of the project is to create a machine learning pipeline that can analyse and categorize these events so that the messages can be sent to an appropriate disaster relief agency. This project also includes a web app where an emergency worker can input a new message and get classification results in several categories
+
 
 ## Display of web apps
 
